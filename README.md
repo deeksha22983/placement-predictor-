@@ -5,8 +5,8 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** Sawanpreet Singh Badyal
+* **Registration Number:** 23BAI10793
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
@@ -14,7 +14,7 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 
 ## 🔗 Live Application Gateways
 * **Production Live URL:** https://student-placement-predictor-app-6rll.onrender.com
-* **Source Repository:** https://github.com/AkshatGarg2005/Student-Placement_Predictor_App
+* **Source Repository:** [https://github.com/Sawanbadyal/Student-Placement_Predictor_App](https://github.com/sawanbadyal/Placement-predictor)
 
 ---
 
